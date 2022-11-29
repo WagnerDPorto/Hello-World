@@ -1,3 +1,7 @@
-# Hello World
+# Hello World !
+
  Primeiro Repositório do curso Git/GitHub
-Repositorio criado durante uma aula aovivo
+ 
+Repositório criado durante uma aula ao vivo!
+
+Linha editada direto no GitHub!
